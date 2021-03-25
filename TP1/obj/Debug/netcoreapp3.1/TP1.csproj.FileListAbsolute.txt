@@ -1,0 +1,13 @@
+/home/joel/RiderProjects/Ejer1_ObjCsharp/TP1/bin/Debug/netcoreapp3.1/TP1
+/home/joel/RiderProjects/Ejer1_ObjCsharp/TP1/bin/Debug/netcoreapp3.1/TP1.deps.json
+/home/joel/RiderProjects/Ejer1_ObjCsharp/TP1/bin/Debug/netcoreapp3.1/TP1.runtimeconfig.json
+/home/joel/RiderProjects/Ejer1_ObjCsharp/TP1/bin/Debug/netcoreapp3.1/TP1.runtimeconfig.dev.json
+/home/joel/RiderProjects/Ejer1_ObjCsharp/TP1/bin/Debug/netcoreapp3.1/TP1.dll
+/home/joel/RiderProjects/Ejer1_ObjCsharp/TP1/bin/Debug/netcoreapp3.1/TP1.pdb
+/home/joel/RiderProjects/Ejer1_ObjCsharp/TP1/obj/Debug/netcoreapp3.1/TP1.csprojAssemblyReference.cache
+/home/joel/RiderProjects/Ejer1_ObjCsharp/TP1/obj/Debug/netcoreapp3.1/TP1.AssemblyInfoInputs.cache
+/home/joel/RiderProjects/Ejer1_ObjCsharp/TP1/obj/Debug/netcoreapp3.1/TP1.AssemblyInfo.cs
+/home/joel/RiderProjects/Ejer1_ObjCsharp/TP1/obj/Debug/netcoreapp3.1/TP1.csproj.CoreCompileInputs.cache
+/home/joel/RiderProjects/Ejer1_ObjCsharp/TP1/obj/Debug/netcoreapp3.1/TP1.dll
+/home/joel/RiderProjects/Ejer1_ObjCsharp/TP1/obj/Debug/netcoreapp3.1/TP1.pdb
+/home/joel/RiderProjects/Ejer1_ObjCsharp/TP1/obj/Debug/netcoreapp3.1/TP1.genruntimeconfig.cache
