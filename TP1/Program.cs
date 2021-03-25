@@ -7,7 +7,7 @@ namespace TP1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");  
             Cuenta cuenta = new Cuenta();
             Banco banco = new Banco();
             Sucursal sucursal = new Sucursal();
